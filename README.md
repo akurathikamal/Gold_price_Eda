@@ -4,6 +4,11 @@
 
 ## Data Overview
 
+### 📘 Project Notebook
+
+Explore the full analysis in the interactive Jupyter Notebook:  
+[Gold Price EDA – Jupyter Notebook](https://github.com/akurathikamal/Gold_price_Eda/blob/main/gold%20price.ipynb)
+
 This project analyzes historical gold price data, offering insights into price movements across various trading sessions. Each entry in the dataset corresponds to a specific time window, capturing key metrics such as price and trading volume.
 
 Gold, as a globally traded commodity, serves as an indicator of economic trends, currency fluctuations, and geopolitical events. Through this analysis, we aim to:
