@@ -1,4 +1,3 @@
-# Gold_Price_EDA 
 
 <img src="https://www.forbes.com/advisor/wp-content/uploads/2023/04/gold_prices.jpg" width="1000" height="600" alt="Gold Prices Chart"><br>
 
